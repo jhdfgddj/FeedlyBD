@@ -1,0 +1,5 @@
+{
+  "name": "FeedlyBD",
+  "description": "A high-performance, client-side Feedly-style RSS reader with folder management, advanced search, and a dark-first aesthetic.",
+  "requestFramePermissions": []
+}
