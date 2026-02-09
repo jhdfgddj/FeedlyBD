@@ -1,7 +1,0 @@
-{
-  "name": "FeedlyBD",
-  "description": "A sophisticated AI-powered RSS reader featuring folder management, personalized profiles, dark mode by default, and Gemini-driven article summarization.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
